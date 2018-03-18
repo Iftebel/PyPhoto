@@ -40,7 +40,7 @@ nav:
 # All translation keys
 translations:
  
-  permalink: ""
+  permalink: " https://iftebel.github.io/PyPhoto/"
 
 # Server
 destination:      	 ./_site
